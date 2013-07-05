@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 サルGitコマンド
-=======
-サルでもわかるGitコマンド
 AAA
->>>>>>> remotes/originMyTest01/master
 add 変更をインデックスに登録する
