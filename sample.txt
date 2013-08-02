@@ -1,20 +1,11 @@
-�T��Git�R�}���h
+サルGitコマンド
 AAA
-add �ύX���C���f�b�N�X�ɓo�^����
+add 変更をインデックスに登録する
 
 
-master �̕ύX
+ブランチ TestB に切り替えてみた
 
 
-�u�����` TestB �ɐ؂�ւ��Ă݂�
-
-
-<<<<<<< HEAD
-TestC
-
-
-master 1st
-=======
 TestB 2nd
 
 
@@ -22,4 +13,3 @@ TestB 3rd
 
 
 TestD 1st
->>>>>>> TestD
