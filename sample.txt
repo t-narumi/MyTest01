@@ -1,9 +1,9 @@
-�T��Git�R�}���h
+サルGitコマンド
 AAA
-add �ύX���C���f�b�N�X�ɓo�^����
+add 変更をインデックスに登録する
 
 
-�u�����` TestB �ɐ؂�ւ��Ă݂�
+ブランチ TestB に切り替えてみた
 
 
 TestB 2nd
