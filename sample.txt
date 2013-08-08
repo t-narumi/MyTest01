@@ -1,10 +1,10 @@
-ƒTƒ‹GitƒRƒ}ƒ“ƒh
+ã‚µãƒ«Gitã‚³ãƒãƒ³ãƒ‰
 AAA
-add •ÏX‚ğƒCƒ“ƒfƒbƒNƒX‚É“o˜^‚·‚é
+add å¤‰æ›´ã‚’ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã«ç™»éŒ²ã™ã‚‹
 
 
-ƒuƒ‰ƒ“ƒ` TestB ‚ÉØ‚è‘Ö‚¦‚Ä‚İ‚½
-Develop!!! Dev2nd 3rd 4th
+ãƒ–ãƒ©ãƒ³ãƒ TestB ã«åˆ‡ã‚Šæ›¿ãˆã¦ã¿ãŸ
+Develop!!! Dev2nd 3rd 4th 5th
 
 TestB 2nd
 
