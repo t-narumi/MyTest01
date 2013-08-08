@@ -4,7 +4,7 @@ add 変更をインデックスに登録する
 
 
 ブランチ TestB に切り替えてみた
-Develop!!! Dev2nd
+Develop!!! Dev2nd 3rd
 
 TestB 2nd
 
